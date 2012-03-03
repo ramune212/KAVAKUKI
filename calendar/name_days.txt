@@ -1,0 +1,365 @@
+, Mečislovas, Arvaidas, Arvaidė, Eufrozija, Mečys, Eufrozina 
+, Bazilijus, Grigalius, Mažvydas, Gailutė, Fulgentas, Stefanija 
+, Genovaitė, Viltautas, Vyda, Vida 
+, Arimantas, Arimantė, Titas, Benediktas, Arminas, Benas, Arminė, Andželika, Anželika 
+, Simonas, Vytautas, Vytautė, Telesforas, Gaudentas, Simas 
+, Baltazaras, Kasparas, Merkelis, Arūnas, Arūnė, Melchioras 
+, Liucijus, Raimundas, Valentinas, Rūtenis, Raudvilė 
+, Apolinaras, Severinas, Teofilius, Vilintas, Gintė, Teofilis 
+, Bazilė, Julijonas, Algis, Gabija, Marcijona 
+, Agatonas, Vilhelmas, Ginvilas, Ginvilė, Vilius 
+, Marcijonas, Stefanija, Audrius, Vilnė, Palemonas 
+, Arkadijus, Cezarija, Cezarijus, Vaigedas, Lingailė, Ernestas, Cezarė, Cezaris 
+, Veronika, Dargaudas, Gilvydė, Iveta, Raimonda, Vera, Hiliaras 
+, Feliksas, Teodozijus, Auksė, Hilarijus, Laimis, Lilija 
+, Paulius, Skirgaila, Snieguolė, Meda, Povilas 
+, Marcelis, Norgailas, Norgailė 
+, Antanas, Dovainis, Vilda, Leonilė 
+, Gedgaudas, Jogailė, Liberta, Jolita 
+, Kanutas, Marijus, Morta, Raivedys, Gedvilė, Marius 
+, Fabijonas, Sebastijonas, Daugvydas, Nomeda 
+, Agnietė, Galiginas, Garsė, Ineza, Inesa, Ineta, Ina 
+, Anastazas, Gaudentas, Vincentas, Aušrius, Skaistė, Džiugas, Vincas 
+, Gailigedas, Gunda, Raimundas 
+, Pranciškus, Vilgaudas, Gaivilė, Artūras, Felicija 
+, Viltenis, Žiedė, Povilas, Paulius 
+, Timotiejus, Titas, Rimantas, Eigilė, Justas, Paulė, Rimas 
+, Angelė, Jogundas, Jogundė, Natalis, Ilona, Anelė 
+, Tomas, Gedautas, Nijolė, Leonidas, Manfredas 
+, Girkantas, Žibutė, Valerijus, Aivaras 
+, Hiacinta, Jacinta, Martyna, Milgaudas, Banguolė, Ipolitas, Liudvika, Liuda, Martė 
+, Liudvika, Marcelė, Skirmantas, Budvilė, Luiza, Skirmantė 
+, Pijonijus, Gytautas, Eidvilė, Ignotas, Brigita 
+, Rytys, Vandenė, Valdemaras, Kandidas, Rytis, Valdonė, Valdas, Orintas, Orinta 
+, Oskaras, Blažiejus, Radvilas, Radvilė, Blažys, Asta 
+, Andriejus, Vydmantas, Arvilė, Joana, Andrius, Vidmantas 
+, Agota, Gaudvinas, Birutė 
+, Darata, Paulius, Alkis, Žyvilė, Titas, Povilas, Živilė, Urtė, Oksana 
+, Ričardas, Vildaugas, Jomantė, Romualdas, Vilgirdas, Vilgirdė 
+, Aldona, Jeronimas, Dromantas, Daugvilė, Saliamonas, Honorata, Salys 
+, Apolonija, Marijus, Joviltas, Algė, Erikas, Polė, Erika 
+, Skolastika, Girvydas, Vydgailė, Gabrielius, Elvyra, Skolė 
+, Teodora, Algirdas, Algirdė, Adolfas, Liucijus, Evelina 
+, Benediktas, Reginaldas, Mantminas, Deimantė, Eulalija 
+, Kotryna, Algaudas, Ugnė, Benignas 
+, Kirilas, Valentinas, Saulius, Saulė, Liliana, Lijana, Valius 
+, Faustinas, Jordanas, Zygfridas, Girdenis, Girdenė, Jovita, Jurgina, Jurgita, Vytis 
+, Julijona, Julijonas, Tautvydė 
+, Aleksas, Vaišvilas, Viltė, Donatas, Donata 
+, Bernadeta, Simeonas, Lengvenis, Gendrė, Simas 
+, Konradas, Šarūnas, Nida, Zuzana 
+, Leonas, Visgintas, Eitvydė 
+, Eleonora, Kęstutis, Žemyna, Feliksas 
+, Darvydas, Gintautė, Elvinas, Margarita 
+, Gantautas, Butvilė, Severinas, Romana, Roma 
+, Demetrija, Gedmantas, Goda, Motiejus, Matas 
+, Viktoras, Margiris, Rasa, Regimantas 
+, Aleksandras, Jogintas, Aurimė, Izabelė, Sandra 
+, Gabrielius, Ginvilas, Skirmantė, Fortunatas, Livija, Mandravas, Mandravė 
+, Osvaldas, Romanas, Vilgardas, Žygimantė, Romas 
+, Albinas, Tulgaudas, Rusnė, Antanina, Antanė 
+, Simplicijus, Eitautas, Dautara, Marcelinas, Elena 
+, Kunigunda, Uosis, Tulė, Nonita 
+, Kazimieras, Daugvydas, Daina, Vaclava, Kazys, Vacė 
+, Austra, Aurora, Liucijus, Vydotas, Giedrė, Klemensas, Virgilijus 
+, Gerasimas, Norvilas, Raminta, Rožė 
+, Felicita, Rimtautas, Galmantė, Tomas, Laima 
+, Vydminas, Gaudvilė, Beata 
+, Dominykas, Domas, Pranciška, Žygintas, Visgailė, Pranė 
+, Silvija, Naubartas, Butgailė, Emilis, Geraldas 
+, Konstantinas, Gedimtas, Vijolė, Kostas 
+, Teofanas, Galvirdas, Darmantė 
+, Paulina, Liutauras, Vaidilė, Kristina, Teodora 
+, Matilda, Darmantas, Karigailė 
+, Klemensas, Lukrecija, Tautas, Tautgintė, Lionginas, Tautginė, Raigardas 
+, Julijonas, Vaidotas, Norvaldė, Henrika, Norvilė 
+, Gerda, Patrikas, Gentvila, Varūna, Gertrūda, Gendvilas, Vita 
+, Kirilas, Eimutis, Eimutė, Anzelmas, Sibilė 
+, Juozapas, Vilys, Vilė, Juozas 
+, Žygimantas, Tautvilė, Filomenas, Irmgarda, Irma, Irmantas 
+, Mikalojus, Nortautas, Lingailė, Benediktas, Reda 
+, Benvenutas, Kotryna, Gedgaudas, Gedgaudė 
+, Galgintas, Vismantė, Alfonsas, Akvilė, Ūla 
+, Liucija, Daumantas, Ganvilė, Gabrielius, Donardas 
+, Normantas, Normantė 
+, Feliksas, Liudgaras, Arbutas, Vydmantė, Emanuelis, Teklė, Laimis 
+, Nikodemas, Rupertas, Alkmenas, Rūta, Aleksandras, Lidija 
+, Filemonas, Sikstas, Rimkantas, Girmantė, Odeta 
+, Narcizas, Almantė, Bertoldas, Manvydas 
+, Gvidonas, Virmantas, Meda, Ferdinandas 
+, Benjaminas, Ginas, Gina, Kornelija 
+, Hugonas, Teodora, Teodoras, Rimgaudas, Dainora 
+, Pranciškus, Jostautas, Jostautė, Pranas, Elona 
+, Irena, Ričardas, Vytenis, Rimtautė, Kristijonas 
+, Izidorius, Algaudas, Eglė, Ambraziejus 
+, Krescencija, Vincentas, Rimvydas, Žygintė, Zenonas, Irena, Zenius 
+, Celestinas, Daugirutis, Žintautė, Gerardas 
+, Minvydas, Kantautė, Hermanas, Donata 
+, Valteris, Girtautas, Skirgailė, Dionizas, Julija, Alma 
+, Paladijus, Aurimas, Dalia, Kleopas, Gitana, Gitanas 
+, Apolonijus, Mintautas, Agna, Margarita 
+, Stanislovas, Vykintas, Daugailė, Leonas 
+, Julijus, Zenonas, Galmantas, Jūratė, Damijonas, Julius 
+, Martynas, Mingaudas, Algaudė, Ida 
+, Liudvika, Liuda, Valerijonas, Vaišvydė, Visvaldas, Justinas, Luiza 
+, Gema, Vilnius, Vaidotė, Modestas, Anastazijus, Liudvina 
+, Benediktas, Giedrius, Algedė, Kalikstas 
+, Anicetas, Dravenis, Skaidra, Robertas 
+, Apolonijus, Eitvilas, Girmantė 
+, Leonas, Leontina, Eirimas, Aistė, Simonas, Laisvūnas, Laisvūnė 
+, Gostautas, Eisvydė, Marcijonas, Agnė 
+, Anzelmas, Konradas, Milgedas, Skalvė, Amalija, Arijus 
+, Kajus, Visgailas, Norvaidė, Leonidas, Leonas, Vadimas 
+, Adalbertas, Jurgis, Daugaudas, Vygailė, Jurgita, Jurga 
+, Fidelis, Kantrimas, Gražvyda, Ervina 
+, Morkus, Tolmantas, Žadmantė 
+, Gailenis, Dargailė, Klaudijus, Vilūnė 
+, Anastazas, Zita, Gotautas, Aušra, Žydrė, Edilija 
+, Prudencijus, Valerija, Vygantas, Rimgailė, Vitalius, Vygandas 
+, Kotryna, Tarmantas, Indrė, Augustinas, Rita 
+, Marijonas, Pijus, Virbutas, Venta, Sofija 
+, Juozapas, Zigmantas, Žilvinas, Vydmantė, Anelė, Zigmas 
+, Atanazas, Eidmantas, Meilė, Meilutė 
+, Aleksandras, Jokūbas, Juvenalis, Pilypas, Arvystas, Kantvydė 
+, Antanina, Florijonas, Dargailas, Mintautė, Monika, Vitalija 
+, Irena, Mykolas, Barvydas, Neris, Pijus, Angelas, Anielius 
+, Judita, Minvydas, Eidmantė, Liucijus, Benedikta, Benė 
+, Domicelė, Domicijonas, Butautas, Rimutė, Danutė, Stanislovas 
+, Stanislovas, Viktoras, Džiugas, Audrė, Mykolas, Stasys 
+, Beatas, Edita, Mingailas, Austėja, Grigalius 
+, Antoninas, Putinas, Sangailė, Viktorina 
+, Mamertas, Skirgaudas, Miglė, Pilypas 
+, Achilas, Vaidutis, Vilgailė, Nerėjas, Nerys, Nerijus 
+, Tautmilas, Alvydė, Milda 
+, Motiejus, Gintaras, Vilda, Bonifacas, Gintarė 
+, Izidorius, Sofija, Algedas, Jaunutė, Zofija 
+, Andriejus, Ubaldas, Vaidmantas, Bitė, Andrius 
+, Paskalis, Virkantas, Gailė, Bazilė 
+, Erikas, Erdvilas, Rytė, Julita, Venancijus 
+, Gilvinas, Tauras, Celestinas 
+, Bernardinas, Eidvilas, Vygintė, Akvilas, Alfreda 
+, Teobaldas, Vaidivutis, Vydmina, Valentas, Aldas, Vaidevutis 
+, Elena, Julija, Rita, Eimantas, Aldona, Julė 
+, Gertautas, Tautvydė, Ivona, Žydrūnė, Žydrūnas 
+, Joana, Žaneta, Vincentas, Vilmantas, Gina, Gerardas, Žana 
+, Bedas, Magdalena, Almantas, Danutė, Urbonas, Evelina 
+, Pilypas, Algimantas, Milvydė, Eduardas, Vilhelmina 
+, Augustinas, Genadijus, Virgaudas, Žymantė, Brunonas, Leonora 
+, Justas, Jogirdas, Rima, Augustinas 
+, Teodozija, Algedas, Erdvilė, Magdalena, Magdė 
+, Ferdinandas, Joana, Žaneta, Vyliaudas, Jomilė, Žana 
+, Petronėlė, Gintautas, Rimvilė, Angelė, Petrė 
+, Justinas, Jogaila, Galindė, Konradas, Juvencijus 
+, Erazmas, Marcelinas, Ąžuolas, Auksė, Eugenijus 
+, Karolis, Klotilda, Tautkantas, Dovilė 
+, Pranciškus, Dausprungas, Deimena, Kornelijus, Vincentas, Vincė, Vincenta 
+, Bonifacas, Vinfridas, Kantautas, Kantvydė, Marcė 
+, Bogumilas, Klaudijus, Norbertas, Tauras, Mėta, Paulina 
+, Robertas, Ratautas, Radvydė, Lukrecija, Roberta, Svajūnas, Svajūnė 
+, Medardas, Merūnas, Eigintė 
+, Efremas, Felicijonas, Gintas, Gintė, Felicijus, Vitalija 
+, Diana, Liutgarda, Pelagija, Galindas, Vingailė, Margarita 
+, Barnabas, Tvirmantas, Aluona, Flora 
+, Anupras, Ramūnas, Dovė, Kristijonas, Kristis, Vilma, Kristė 
+, Antanas, Kunotas, Skalvė, Akvilina 
+, Rufinas, Valerijus, Labvardas, Almina, Bazilijus, Digna 
+, Jolanta, Vitas, Tanvilas, Bargailė, Krescencija 
+, Benas, Julita, Tolminas, Jūra 
+, Grigalius, Daugantas, Vilmantė, Adolfas, Laura 
+, Marcelinas, Morkus, Ginbutas, Vaiva, Arnulfas, Marina 
+, Julijona, Romualdas, Dovilas, Ramunė, Deodatas, Romas 
+, Florentina, Silverijus, Žadvainas, Žintautė, Nandas 
+, Aloyzas, Galminas, Vasarė, Alicija 
+, Paulinas, Tomas, Kaributas, Laima, Inocentas 
+, Agripina, Arvydas, Vaida, Zenonas, Vanda, Vaidas, Ligita, Rūtilė 
+, Jonas, Eivilitas, Eivilitė, Eiviltas, Janina 
+, Vilhelmas, Geistautas, Geistautė, Baniutė, Vilius, Geisvyda, Geisvydas 
+, Paulius, Jaunutis, Virgilijus, Povilas, Jaunius, Viltautė 
+, Ema, Kirilas, Vladislovas, Gediminas, Norgailė, Vladas 
+, Irenėjus, Tulgedas, Gaudrė 
+, Paulius, Petras, Mantigirdas, Gedrimė, Benita, Povilas 
+, Otonas, Otas, Tautginas, Novilė, Emilija, Liucina 
+, Julijus, Tautrimas, Liepa, Julius 
+, Martinijonas, Jotvingas, Gantautė, Marijonas, Martys 
+, Anatolijus, Leonas, Tomas, Vaidilas, Liaudmina 
+, Berta, Elžbieta, Ulrikas, Skalvis, Gedgailė, Teodoras, Malvina 
+, Antanas, Butginas, Mantmilė, Karolina, Filomena 
+, Marija, Nervydas, Ginvilė, Dominyka, Domė, Mindaugas, Nervilė, Nervilas, Nerilė, Nerilis 
+, Sangailas, Vilgailė, Estera, Astijus, Elita 
+, Vaitautas, Valmantė, Arnoldas, Elžbieta, Elzė, Virginija, Virga 
+, Marcelina, Veronika, Algirdas, Algirdė, Leonardas, Marcė, Vera 
+, Amalija, Prudencija, Rufina, Gilvainas, Eirimė 
+, Benediktas, Vilmantas, Šarūnė, Pijus, Kipras 
+, Bonifacas, Brunonas, Sigisbertas, Margiris, Vyliaudė, Izabelė, Sigitas 
+, Eugenijus, Henrikas, Arvilas, Arvilė, Anakletas, Anys 
+, Kamilas, Vydas, Eigilė, Libertas 
+, Bonaventūras, Mantas, Gerimantė, Henrikas, Rozalija, Rožė, Herkus 
+, Vaigaudas, Danguolė, Faustas, Marija 
+, Aleksas, Magdalena, Darius, Girėnas, Vaiga 
+, Arnoldas, Fridrikas, Tautvilas, Eimantė, Kamilis, Ervinas 
+, Aurėja, Galigantas, Mantigailė, Vincentas, Auksė, Vincas 
+, Aurelijus, Česlovas, Elijas, Alvydas, Vismantė, Jeronimas, Alvyda 
+, Laurynas, Lionginas, Rimvydas, Rimvydė, Danielius 
+, Magdalena, Dalius, Mantilė 
+, Apolinaras, Romula, Tarvilas, Gilmina, Brigita, Roma 
+, Kristina, Kristoforas, Kunigunda, Dargvilas, Dargvilė, Kristupas 
+, Jokūbas, Kargaudas, Aušrinė, Kristoforas, Kristupas 
+, Joakimas, Ona, Daugintas, Eigirdė, Jokimas 
+, Natalija, Panteleonas, Žintautas, Svalia, Sergijus 
+, Ada, Inocentas, Nazarijus, Vytaras, Augmina, Nazaras, Vytas 
+, Beatričė, Faustinas, Feliksas, Morta, Simplicijus, Mantvydas, Mantvydė, Laimis 
+, Abdonas, Nortautas, Radvilė, Donatilė 
+, Elena, Ignacas, Sanginas, Vykintė, Ignotas 
+, Bartautas, Bartautė, Almeda 
+, Euzebijus, Steponas, Tautvilas, Guoda, Gustavas, Alfonsas 
+, Lidija, Mangirdas, Lengvinė, Augustė 
+, Gerimantas, Milgedė, Dominykas 
+, Felicisimas, Nona, Rimtas, Mintarė, Osvaldas, Vilija 
+, Bylotas, Daiva 
+, Donatas, Kajetonas, Sikstas, Drąsutis, Jogailė, Klaudija, Jogilė 
+, Dominykas, Tulgirdas, Daina, Elidijus, Gustavas 
+, Romanas, Mintaras, Tarvilė, Rolandas, Romas 
+, Norimantas, Laima, Laurynas, Asterija, Astra 
+, Filomena, Klara, Severas, Zuzana, Visalgas, Visvilė, Ligija 
+, Radegunda, Laimonas, Laimona, Klara, Radė 
+, Kasijonas, Poncijonas, Naglis, Gilvilė, Ipolitas, Diana 
+, Euzebijus, Maksimilijonas, Grintautas, Guostė 
+, Visvilas, Vydenė, Napoleonas, Sigita, Napalys, Rugilė 
+, Rokas, Butvydas, Alvita, Jokimas 
+, Hiacintas, Jacintas, Saulenis, Mažvilė, Jackus 
+, Elena, Mantautas, Gendvilė, Ilona 
+, Emilija, Argaudas, Tolvina, Boleslovas, Balys 
+, Bernardas, Tolvinas, Neringa, Nemunas 
+, Linda, Pijus, Gaudvydas, Joana, Kazimiera, Medeinė 
+, Karijotas, Rimantė, Ipolitas, Zygfridas 
+, Pilypas, Rožė, Girmantas, Tautgailė 
+, Baltramiejus, Michalina, Viešvilas, Rasuolė, Alicija, Baltrus, Mykolė 
+, Juozapas, Liudvikas, Patricija, Mangailas, Mangailė, Liucilė, Liudas 
+, Kazimieras, Zefirinas, Gailius, Algintė, Aleksandras, Gailutis 
+, Monika, Tolvydas, Aušrinė, Cezarijus 
+, Augustina, Tarvilas, Steigvilė 
+, Adolfas, Sabina, Barvydas, Gaudvydė, Beatričė 
+, Adelė, Feliksas, Kintenis, Augūna, Adauktas, Gaudencija, Laimis, Joris, Vesta 
+, Izabelė, Raimundas, Raimunda, Vilmantas, Vilmantė, Raimondas 
+, Egidijus, Verena, Gytautas, Burvilė, Gytis 
+, Ingrida, Protenis, Vilgaudas, Steponas, Vilgaudė 
+, Berta, Bronislovas, Bronislova, Grigalius, Sirtautas, Mirga, Bronislava 
+, Ida, Rozalija, Girstautas, Germantė, Rožė 
+, Laurynas, Erdenis, Dingailė, Justina, Stanislava, Stasė 
+, Beata, Faustas, Vaištautas, Tautenė 
+, Klodoaldas, Pulcherija, Regina, Bartas, Bartė, Palmira, Klodas 
+, Adrijonas, Marija, Liaugaudas, Daumantė, Klementina 
+, Serapina, Sergijus, Argintas, Ramutė, Sonata 
+, Dionyzas, Konstancija, Mikalojus, Salvijus, Tautgirdas, Girmintė, Kostė 
+, Hiacintas, Jacintas, Augantas, Gytautė, Helga, Jackus, Gytė 
+, Gvidas, Marija, Tolvaldas, Vaidmantė 
+, Barmantas, Barvydė 
+, Sanita, Sanija, Santa, Eisvinas, Eisvina, Krescencija, Krescencijus 
+, Eugenija, Rolandas, Vismantas, Rimgailė, Nikodemas 
+, Eufemija, Kiprijonas, Kornelijus, Liudmila, Rimgaudas, Jogintė, Kamilė, Edita, Kipras 
+, Robertas, Sintautas, Sintautė, Pranciškus, Pranas 
+, Juozapas, Stanislovas, Mingailas, Galmantė, Stefanija, Stefa, Elita 
+, Arnulfas, Januarijus, Girvinas, Vytė, Vilhelmina, Vilė 
+, Fausta, Kolumba, Vainoras, Tautgirdė, Eustachijus, Vainora 
+, Matas, Mantvilas, Viskintė 
+, Mauricijus, Tomas, Tarvinas, Virmantė 
+, Linas, Teklė, Galintas, Galintė, Lina, Linė 
+, Gerardas, Gedvinas, Gedvinė 
+, Kleopas, Vladislovas, Vaigintas, Ramvydė, Aurelija 
+, Damijonas, Vydenis, Gražina, Kipras, Justina, Justė 
+, Vincentas, Kovaldas, Daugilė, Damijonas, Adalbertas 
+, Svetlana, Lana, Vaclovas, Tautvydas, Vientautė, Saliamonas, Vacys 
+, Gabrielius, Mykolas, Rapolas, Kęsgailas, Kęsgailė, Michalina, Mykolė 
+, Jeronimas, Sofija, Žymantas, Bytautė, Zofija 
+, Emanuelis, Remigijus, Teresė, Mantas, Mintė, Benigna 
+, Modestas, Eidvilas, Getautė 
+, Evaldas, Kristina, Milgintas, Alanta, Teresė 
+, Pranciškus, Mąstautas, Eivydė, Pranas 
+, Edvinas, Galė, Placidas, Palemonas, Gilda, Donata 
+, Brunonas, Budvydas, Vytenė 
+, Morkus, Renatas, Butrimas, Eivina, Justina 
+, Benedikta, Marcelis, Sergijus, Daugas, Gaivilė, Brigita, Demetras, Aina 
+, Liudvikas, Gedėtas, Virgailė, Dionyzas, Liudas 
+, Danielius, Pranciškus, Gilvydas, Butautė, Danys 
+, Germanas, Rimgaudas, Daugvydė, Zinaida, Zina 
+, Rudolfas, Serapinas, Gantas, Deimintė, Salvinas 
+, Eduardas, Mintaras, Nortautas, Venancijus, Edvardas, Nortautė, Edgaras 
+, Kalikstas, Vincentas, Mindaugas, Rimvydė, Fortunata 
+, Teresė, Galimintas, Domantė, Leonardas 
+, Aurelija, Galius, Jadvyga, Margarita, Gutautas, Dovaldė, Ambraziejus, Dovaidas, Dovaidė, Greta, Gretė 
+, Ignacas, Kintautas, Gytė, Marijonas, Margarita, Ignotas 
+, Lukas, Liubartas, Kęsmina, Vaiva 
+, Akvilinas, Izaokas, Paulius, Geisvilas, Kantrimė, Kleopatra, Laura, Povilas 
+, Irena, Gedas, Deimina, Adelina, Adelė 
+, Uršulė, Raitvilas, Gilanda, Hiliaras, Vilma 
+, Donatas, Malvina, Severinas, Viltaras, Mingedė, Aliodija, Severas 
+, Sanginas, Ramvydė, Odilija 
+, Antanas, Daugailas, Švitrigailė, Rapolas, Gilbertas 
+, Krizantas, Švitrigaila, Vaigedė, Darija, Inga, Krizas 
+, Liudginas, Mingintė, Evaristas, Liaudginas, Vita 
+, Ramojus, Tautmilė, Vincentas, Sabina, Vincas 
+, Judas, Tadas, Simonas, Almantė, Gaudrimas, Simas 
+, Ermelinda, Gelgaudas, Tolvydė, Violeta, Narcizas 
+, Liucilė, Volfgangas, Skirgaila, Skirvydė, Edmundas, Darata, Volfas 
+, Benignas, Mąstvilas, Tanvilė, Liucilė 
+, Žygaudas, Milvydė, Andrius 
+, Gedartas, Gedilė, Valentas, Valys 
+, Hubertas, Martynas, Silvija, Vydmantas, Norvainė 
+, Agrikola, Karolis, Modesta, Vitalis, Eibartas, Vaidmina, Vitalijus, Vitalius 
+, Elžbieta, Zacharijas, Audangas, Gedvydė, Florijonas, Elzė 
+, Leonardas, Melanijus, Ašmantas, Vygaudė, Armantas 
+, Ernestas, Rufas, Sirtautas, Gotautė, Karina 
+, Severijonas, Viktorinas, Svirbutas, Domantė, Gotfridas, Severinas 
+, Aurelijus, Paulina, Dargintas, Skirtautė, Teodoras, Estela 
+, Andriejus, Leonas, Vaišviltas, Gelvydė, Andrius, Evelina 
+, Martynas, Vygintas, Milvydė, Anastazija, Nastė 
+, Juozapotas, Teodoras, Ašmantas, Alvilė, Kristina, Renata, Kristinas 
+, Norvydas, Eirimė, Arkadijus 
+, Gotfridas, Ramantas, Saulenė, Emilis, Judita 
+, Albertas, Leopoldas, Vaidilas, Žadvydė 
+, Edmundas, Gertrūda, Margarita, Vaišvydas, Gerdvilė 
+, Dionyzas, Elžbieta, Grigalius, Getautas, Gilvilė, Viktorija 
+, Salomėja, Ginvydas, Ginvydė, Otonas, Romanas, Otas 
+, Matilda, Dainotas, Rimgaudė, Dainius 
+, Feliksas, Jovydas, Vaidvilė, Laimis 
+, Gomantas, Eibartė, Honorijus, Alberta, Norgaudas, Girenė, Honoratas, Tomas 
+, Cecilija, Cilė, Steigintas, Dargintė 
+, Felicita, Klemensas, Kolumbanas, Doviltas, Liubartė, Adelė, Kolumbas, Orestas 
+, Mantvinas, Žybartė, Gerardas 
+, Kotryna, Santautas, Germilė 
+, Leonardas, Dobilas, Vygintė, Silvestras, Vygantė 
+, Maksimas, Virgilijus, Skomantas, Girdvydė, Virgis, Girvydė 
+, Jokūbas, Steponas, Rimgaudas, Vakarė, Rufas 
+, Saturninas, Daujotas, Butvydė, Saturnas 
+, Andriejus, Saugardas, Dovainė, Andrius 
+, Aleksandras, Eligijus, Natalija, Butigeidas, Algmina 
+, Liucijus, Svirgailas, Milmantė, Aurelija, Paulina 
+, Pranciškus, Gailintas, Audinga, Ksaveras 
+, Barbora, Osmundas, Vainotas, Liugailė 
+, Eimintas, Geisvilė, Gratas, Gracija 
+, Mikalojus, Bilmantas, Norvydė 
+, Ambraziejus, Daugardas, Tautė, Jekaterina 
+, Zenonas, Vaidginas, Gedmintė, Guntilda 
+, Delfina, Leokadija, Vakaris, Gedenė, Valerija 
+, Eidimtas, Ilma, Eularija, Loreta 
+, Artūras, Aistis, Tautvaldė, Dovydas 
+, Joana, Žaneta, Gilmintas, Vaingedė, Dagmara, Žana 
+, Liucija, Odilija, Kastautas, Eiviltė, Otilija, Kastytis 
+, Alfredas, Fortunatas, Tarvainas, Kintvilė 
+, Justas, Kristijonas, Kristijona, Nina, Ona, Gaudenis, Gaudenė 
+, Albina, Vygaudas, Audronė, Algina, Alina, Adas 
+, Olimpija, Mantgailas, Drovydė, Jolanta 
+, Gracijonas, Girdvilas, Eivilė, Gracijus 
+, Rufas, Urbonas, Gerdvilas, Rimantė, Darijus 
+, Dominykas, Daugardas, Gražvilė, Teofilis 
+, Norgaudė, Girenė, Tomas 
+, Rimbertas, Gedvydas, Dovilė, Zenonas, Ksavera, Anna 
+, Viktorija, Mina, Vilbutas, Veliuona 
+, Adelė, Adomas, Ieva, Irmina, Girstautas, Minvydė, Irma 
+, Anastazija, Gražvydas, Sanrimė, Eugenija, Nastė, Genė 
+, Steponas, Gaudilė, Gindvilė, Gaudvilas 
+, Dautartas, Gedvinė, Fabijolė 
+, Inga, Ivita, Irvita, Ingeborga, Kantvilas, Vaidilutė, Ema, Kamilė 
+, Tomas, Gentvainas, Gaja, Teofilė 
+, Margarita, Sabinas, Sabina, Gražvilas, Dovydas, Irmina 
+, Melanija, Silvestras, Gedgantas, Mingailė 

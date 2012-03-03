@@ -1,0 +1,219 @@
+<body bgcolor="black" scroll="no">
+<style>
+body {overflow: hidden}; 
+</style>
+<script type="text/javascript" src="nifty.js"></script>
+<script type="text/javascript">
+  window.onload = function() {
+    if (!NiftyCheck()) {
+      return;
+    }
+    Rounded("div#nifty", "#377CB1", "#9BD1FA", 30, 30);
+  }
+
+function change() {
+	document.getElementById("clo").style.display="none";
+	document.getElementById("tab").style.display="none";
+	document.getElementById("logo").style.display="block";
+	
+	setTimeout("again()", 1);
+}
+
+function again() {
+	document.getElementById("logo").style.display="none";	
+	document.getElementById("tab").style.display="block";
+//	document.getElementById("clo").style.display="block";
+}
+
+//setTimeout("change()", 1500);
+
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+
+
+
+<div id="logo" style="display:none;position:absolute;">
+	<img src="logo.png">
+</div>
+
+<div style="position:absolute;left:238px;" id="clo">
+	
+	
+	<!--
+	<object type="application/x-shockwave-flash"
+	 data="relog.swf"
+	 width="200" height="200">
+	<param name="movie" value="/flash/relog.swf">
+	<param name="WMode" value="Transparent">
+	</object>
+	-->
+	
+<iframe frameborder="0" src="clock.html" scrolling="no" height="200">
+</iframe>
+<!--<embed src="http://www.adamdorman.com/flash/flip_clock_white_24_w-secs.swf" width="200" height="50" type="application/x-shockwave-flash"  wmode="opaque" quality="high"></embed>-->
+
+<style>
+a {color:white;}
+td {text-align:center;color:white;}
+* {font-family:tahoma;}
+#nifty {
+border-radius: 15px;
+}
+span {
+	border-radius: 4px;
+}
+#date1, #date2 {
+	border-radius: 6px;
+}
+#vard {
+	border-radius: 10px;
+}
+</style>
+</div>
+
+<!--<div style="position:absolute;left:30px;top:260px;z-index:10;">-->
+<div style="position:absolute;left:38px;top:220px;z-index:1;" id="tab">
+
+
+<table width="500" cellpadding="10" cellspacing="0" bgcolor="white">
+	<tr>
+		<td bgcolor="black" width="100" align="center">
+			<table>
+				<tr>
+					<td><span style="font-size:16px;">&nbsp;&nbsp;&nbsp;&nbsp;Lapkritis&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+				</tr>
+				<tr>
+					<td>
+						<div style="background:white;padding:1px;font-size:80px; border:1px solid white;color:black;width:88px;" id="nifty">10</div>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td bgcolor="black">
+
+			<table width="100%">
+				<tr>
+					<td><span style="border:1px solid white;color:black;background:white;padding:1px;">Pr</span></td>
+					<td><span style="border:1px solid white;color:black;background:white;padding:1px;">A</span></td>
+					<td><span style="border:1px solid white;color:black;background:white;padding:1px;">T</span></td>
+					<td><span style="border:1px solid white;color:black;background:white;padding:1px;">K</span></td>
+					<td><span style="border:1px solid white;color:black;background:white;padding:1px;">Pn</span></td>
+					<td><span style="border:1px solid white;color:black;background:white;padding:1px;">Š</span></td>
+					<td><span style="border:1px solid white;color:black;background:white;padding:1px;">S</span></td>
+				</tr>
+				<tr>
+					<td>1</td>
+					<td>2</td>
+					<td>3</td>
+					<td>4</td>
+					<td>5</td>
+					<td>6</td>
+					<td>7</td>
+				</tr>
+				<tr>
+					<td>8</td>
+					<td>9</td>
+					<td><font color="red"><b>10</b></font></td>
+					<td>11</td>
+					<td>12</td>
+					<td>13</td>
+					<td>14</td>
+				</tr>
+				<tr>
+					<td>15</td>
+					<td>16</td>
+					<td>17</td>
+					<td>18</td>
+					<td>19</td>
+					<td>20</td>
+					<td>21</td>
+				</tr>
+				<tr>
+					<td>22</td>
+					<td>23</td>
+					<td>24</td>
+					<td>25</td>
+					<td>26</td>
+					<td>27</td>
+					<td>28</td>
+				</tr>
+				<tr>
+					<td>29</td>
+					<td>30</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+		</td>
+		
+		
+		<td bgcolor="black" style="text-align:left;" nowrap>
+			<table>
+				<tr>
+					<td style="text-align:left;"><span style="font-size:20px; border:1px solid white;color:black;background:white;padding:2px;" id="date1">Šiandien</span></td>
+					<td><span style="font-size:40px;">+4°C </span></td>
+					<td> &nbsp;&nbsp;<img src="rain.gif" style="border:1px solid white;"></td>
+				</tr>
+					<td style="text-align:left;"><span style="font-size:20px; border:1px solid white;color:black;background:white;padding:2px;" id="date2">Rytoj</span></td>
+					<td><span style="font-size:40px;">+5°C</span></td>
+					<td> &nbsp;&nbsp;<img src="rain.gif" style="border:1px solid white;"></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	
+
+	<tr>
+		<td colspan="3" bgcolor="black">
+			<div style="background:white;padding:7px;text-align:left;" id="vard">
+			<font color="black">
+			<font color="red">Kavakukis: <font color="red">
+			</font>
+			<font color="black">
+				ketvirtadienį nuo 12:00 SUPER MARIO turnyras! ;-) <br>Kviečiame sužaisti visus žinančius šį žaidimą! ;-)
+				<!--šiandien <b>19:00 - 23:00</b> <br>kviečiu visus praleisti vakarą žaidžiant stalo žaidimus!-->
+				<!-- nuo spalio 25 dienos visą savaitę moksleiviams 20% nuolaida mūsų kepiniams! Skanių atostogų! ;-)-->
+			</font>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3" bgcolor="black">
+			<div style="background:white;padding:7px;text-align:left;" id="vard">
+			<font color="black">
+			<font color="red">Kavakukis: <font color="red">
+			</font>
+			<font color="black">
+				kiekvieną šeštadienį 18:00 sportinio pokerio vakarai. Registruotis prie kasos. Nemoki žaisti? Mes tave išmokysim :-)
+			</font>
+			</div>
+		</td>
+	</tr>	
+	<!--
+	<tr>
+		<td colspan="3" bgcolor="black">
+			<div style="background:white;padding:7px;text-align:left;" id="vard">
+			<font color="black">
+			<font color="red">Kavakukis (19:30): <font color="red">
+			</font>
+			<font color="black">
+				už pusvalandžio visos bandelės vėl su 50% <br>nuolaida! geros medžioklės!
+			</font>
+			</div>
+		</td>
+	</tr>
+	-->
+	<tr>
+		<td colspan="3" bgcolor="black">
+			<span style="background:black;padding:7px;" id="vard">
+			<font color="white">
+			Andriejus, Leonas, Vaišviltas, Gelvydė, Andrius, Evelina
+		<!--, Dovaidas, Dovaidė, Greta, Gretė-->
+			</font>
+			</span>
+		</td>
+	</tr>	
+</table>
